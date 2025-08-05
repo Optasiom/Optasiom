@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="https://your-image-link.com/header-shadow.jpg" width="400" alt="dark girl">
+  <img src="o.png" width="400" alt="dl">
 </p>
 
 <p align="center"><i>Мир сломан. Это не беда. Это инструмент.</i></p>
