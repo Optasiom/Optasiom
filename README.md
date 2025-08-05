@@ -21,7 +21,7 @@
 
 ## 🥩 Навыки и инструменты
 
-- Языки: Python, JavaScript, Bash  
+- <img src="or.png" width="50" alt="dl">Языки: Python, JavaScript, Bash  
 - Фреймворки: FastAPI, Flask  
 - Системы: Linux, Docker, Git  
 - Парадигмы: CLI-first, API-first  
