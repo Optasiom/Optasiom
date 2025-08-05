@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="o.png" width="400" alt="dl">
+  <img src="or.png" width="400" alt="dl">
 </p>
 
 <p align="center"><i>Мир сломан. Это не беда. Это инструмент.</i></p>
