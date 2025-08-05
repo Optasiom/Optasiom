@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="2.png" width="50" alt="dl"> Описание
+## <img src="2.png" width="50" alt="dl"> 
 
 ```yaml
 Псевдоним: optasiom
@@ -19,7 +19,7 @@
 
 ---
 
-## <img src="3.png" width="50" alt="dl"> Навыки и инструменты
+## <img src="3.png" width="50" alt="dl"> 
 
 - Языки: Python, JavaScript, Bash  
 - Фреймворки: FastAPI, Flask  
@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="4.png" width="40" alt="dl"> Репозитории
+## <img src="4.png" width="50" alt="dl"> 
 
 **rubika-shadow-gate**  
  → Базовый каркас для систем переадресации и анализа сообщений.  
@@ -42,13 +42,13 @@
 
 ---
 
-## <img src="5.png" width="40" alt="dl"> Статистика
+## <img src="5.png" width="50" alt="dl"> 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=optasiom&theme=shadow-red&hide_border=true&locale=ru&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 
 ---
 
-## <img src="6.png" width="40" alt="dl"> Философия
+## <img src="6.png" width="50" alt="dl"> 
 
 <i>Хаос — это не угроза. Это источник.</i>  
 <i>Я не исправляю систему. Я создаю свою.</i>  
