@@ -7,7 +7,7 @@
 
 ---
 
-## 🥩 Описание
+## <img src="1.png" width="130" alt="dl">🥩 Описание
 
 ```yaml
 Псевдоним: optasiom
@@ -21,7 +21,7 @@
 
 ## 🥩 Навыки и инструменты
 
-- <img src="or.png" width="50" alt="dl">Языки: Python, JavaScript, Bash  
+- Языки: Python, JavaScript, Bash  
 - Фреймворки: FastAPI, Flask  
 - Системы: Linux, Docker, Git  
 - Парадигмы: CLI-first, API-first  
