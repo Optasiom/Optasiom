@@ -47,14 +47,10 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=optasiom&theme=shadow-red&hide_border=true&locale=ru&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?optasiom=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
   srcset="https://github-readme-stats.vercel.app/api?optasiom=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: night), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" />
 </picture>
 ---
 
