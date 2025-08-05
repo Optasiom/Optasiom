@@ -7,7 +7,7 @@
 
 ---
 
-## <img src="2.png" width="40" alt="dl"> Описание
+## <img src="2.png" width="50" alt="dl"> Описание
 
 ```yaml
 Псевдоним: optasiom
@@ -19,7 +19,7 @@
 
 ---
 
-## <img src="3.png" width="40" alt="dl"> Навыки и инструменты
+## <img src="3.png" width="50" alt="dl"> Навыки и инструменты
 
 - Языки: Python, JavaScript, Bash  
 - Фреймворки: FastAPI, Flask  
