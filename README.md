@@ -7,7 +7,7 @@
 
 ---
 
-<img src="1.png" width="40" alt="dl"> ## 🥩 Описание
+## <img src="2.png" width="40" alt="dl">🥩 Описание
 
 ```yaml
 Псевдоним: optasiom
