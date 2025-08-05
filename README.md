@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/profile.jpg" width="230" alt="optasiom">
+  <img src="ico.jpg" width="230" alt="optasiom">
 </p>
 
 <h1 align="center">Привет, я Optasiom</h1>
