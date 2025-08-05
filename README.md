@@ -57,7 +57,7 @@
 ---
 
 <p align="center">
-  <img src="or.png" width="130" alt="dl">
+  <img src="or.png" width="50" alt="dl">
 </p>
 
 <p align="center"><i>Мир сломан. Это не беда. Это инструмент.</i></p>
