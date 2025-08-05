@@ -2,7 +2,7 @@
   <img src="ico.jpg" width="230" alt="optasiom">
 </p>
 
-<h1 align="center"><img src="1.png" width="45" alt="dl"> Привет, я optasiom </h1>
+<h1 align="center">Привет, я optasiom 🥩</h1>
 <p align="center"><i>Наблюдающий. Не герой. Не враг.</i></p>
 
 ---
