@@ -44,13 +44,9 @@
 
 ## ✦ Статистика
 
-<a href="https://github.com/optasiom">
-  <img src="https://github-readme-stats.vercel.app/api?username=optasiom&theme=codeSTACKr&show_icons=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/optasiom">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=optasiom&layout=compact&theme=codeSTACKr" alt="Top Langs" />
-</a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=optasiom&theme=shadow-red&hide_border=true&locale=ru&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+<img src="[https://github-readme-stats.vercel.app/api?optasiom=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)" />
+<img src="https://github-stats-alpha.vercel.app/api?username={optasiom}" />
 ---
 
 ## ✦ Философия
